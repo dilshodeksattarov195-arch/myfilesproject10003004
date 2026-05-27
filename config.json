@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configuerify",
+        "uuid": 14136824,
+        "checksum": "yl84fl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
